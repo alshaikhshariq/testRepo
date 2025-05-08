@@ -1,0 +1,7 @@
+TransactionID,Amount,Txn Date,Desc
+TX1001,10.50,2023-01-01,Coffee purchase
+TX1002,0.00,2023-01-02,Refund processed
+TX1003,25.00,2023-01-03,Book purchase
+TX1004,,2023-01-04,Subscription fee
+TX1005,15.75,,Gift item
+TX1006,100.00,2023-01-06,

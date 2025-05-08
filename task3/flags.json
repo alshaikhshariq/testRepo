@@ -1,0 +1,24 @@
+{
+  "featureA": {
+    "enabled": true,
+    "overrides": {
+      "users": {
+        "42": false,
+        "99": true
+      },
+      "regions": {
+        "EU": true,
+        "US": false
+      }
+    }
+  },
+  "featureB": {
+    "enabled": false,
+    "overrides": {
+      "users": {},
+      "regions": {
+        "IN": true
+      }
+    }
+  }
+}

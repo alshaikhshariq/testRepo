@@ -1,0 +1,21 @@
+{
+    "matched": [
+        "TX1001",
+        "TX1002",
+        "TX1004",
+        "TX1005"
+    ],
+    "mismatched": [
+        {
+            "transaction_id": "TX1003",
+            "expected_amount": 25.01,
+            "actual_amount": 25.0
+        },
+        {
+            "transaction_id": "TX1006",
+            "expected_amount": 100.01,
+            "actual_amount": 100.0
+        }
+    ],
+    "missing": []
+}
